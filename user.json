@@ -3,6 +3,7 @@
 	"personAge": 32,
 	"personDevices": {
 				"device_1": "Iphone 12 pro",
-				"device_2": "Samsung A52"
+				"device_2": "Samsung A52",
+				"device_3": "Ipad 8"
 	}
 }
